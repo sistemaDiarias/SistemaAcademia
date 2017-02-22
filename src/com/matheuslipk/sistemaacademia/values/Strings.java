@@ -35,7 +35,7 @@ public class Strings {
         mesDoAno[7] = "Ago";
         mesDoAno[8] = "Set";
         mesDoAno[9] = "Out";
-        mesDoAno[10] = "Nov";
+        mesDoAno[10] = "Nove";
         mesDoAno[11] = "Dez";
     }
 }
